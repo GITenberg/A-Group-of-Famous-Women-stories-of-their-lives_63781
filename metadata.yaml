@@ -1,0 +1,28 @@
+_repo: A-Group-of-Famous-Women-stories-of-their-lives_63781
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Horton, Edith
+    gutenberg_agent_id: '52598'
+    url: http://www.gutenberg.org/2009/agents/52598
+description: ''
+gutenberg_issued: '2020-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63781'
+  lccn: '14007502'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Women -- Biography'
+- GITenberg
+tableOfContents: Joan of Arc -- Dorothy Payne Madison -- Elizabeth Fry -- Lucretia
+  Mott -- Mary Lyon -- Dorothea Dix -- Margaret Fuller -- Harriet Beecher Stowe --
+  Maria Mitchell -- Lucy Stone -- Julia Ward Howe -- Queen Victoria -- Florence Nightingale
+  -- Susan B. Anthony -- Mary A. Livermore -- Clara Barton -- Harriet Hosmer -- Louisa
+  M. Alcott -- Frances E. Willard -- Women on the battle-field and in pioneer life.
+title: 'A Group of Famous Women: stories of their lives'
+url: http://www.gutenberg.org/ebooks/63781
